@@ -12,8 +12,7 @@ export class UserForm extends Component {
     this.state = {
       step: 1,
       intervieweeAnswers: [
-        {numCoffee: 1,
-      coffeePreference: 0}],
+        ],
       arrayNum : 0,
       correlationNum : [],
       correlationPref : []
