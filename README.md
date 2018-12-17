@@ -1,4 +1,4 @@
-CoffeeTawk's Purpose
+## CoffeeTawk's Purpose
 This project focused on developing a survey conducting app that would test our hypothesis of whether or not there was any corollation between the number of coffee drinks people bought and their preference for pickup vs delivery. Our own research within Shanghai did not resolve any corrolation between these two variables, but there were a number of problems in our research method that could have contributed it that.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
